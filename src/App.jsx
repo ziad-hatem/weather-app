@@ -1,7 +1,7 @@
 import UimReact from "@iconscout/react-unicons-monochrome/icons/uim-react";
 import "./App.css";
 import TopButtons from "./components/TopButtons";
-import Inputs from "./components/inputs";
+import Inputs from "./components/Inputs";
 import TimeAndLocation from "./components/TimeAndLocation";
 import TempertureAndDetails from "./components/TempertureAndDetails";
 import getWeatherData from "./sevices/WeatherService";
